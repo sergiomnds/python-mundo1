@@ -4,3 +4,5 @@
 
 <h1 align="center">🐍 Curso de Python 3</h1>
 Repositório para guardar os códigos feitos durante o Curso de Python 3 - Mundo 1 (40 Horas) do Curso em Vídeo
+
+Olhe as outras branchs para ver os arquivos e códigos que foram feitos de diferentes módulos!
