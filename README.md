@@ -7,7 +7,7 @@ Repositório para guardar os códigos feitos durante o Curso de Python 3 - Mundo
 
 Olhe as outras branchs para ver os arquivos e códigos que foram feitos de diferentes módulos!
 
-<h2>🐍 Primeiros Passos com Python</h1>
+<h2>🐾 Primeiros Passos com Python</h1>
 
 <h3>🎯 Desafios Propostos:</h3>
 
@@ -20,7 +20,7 @@ Olhe as outras branchs para ver os arquivos e códigos que foram feitos de difer
 
 ![terminal desafio 02](https://user-images.githubusercontent.com/85349959/185216187-a3e638ee-b518-4bc9-b764-972e4b8cde76.png) ![terminal desafio 03](https://user-images.githubusercontent.com/85349959/185215807-25fc0956-2d37-4ca4-a39e-7d9555163685.png)
 
-<h2>🐍 Tratando dados e fazendo contas</h2>
+<h2>🎲 Tratando dados e fazendo contas</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
@@ -40,7 +40,7 @@ Olhe as outras branchs para ver os arquivos e códigos que foram feitos de difer
 
 <h3>📷 Galeria</h3>
 
-<h2>🐍 Usando Módulos do Python</h2>
+<h2>💻 Usando Módulos do Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
 
