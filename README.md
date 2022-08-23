@@ -5,7 +5,7 @@
 <h1 align="center">🐍 Curso de Python 3</h1>
 Repositório para guardar os códigos feitos durante o Curso de Python 3 - Mundo 1 (40 Horas) do Curso em Vídeo
 
-Cada pasta é referente à um módulo feito durante o curso, além da pasta '100Exercícios' referente aos exercícios feito durante o curso.
+Cada pasta é referente à um módulo feito durante o curso, além da pasta '100Exercícios' referente aos exercícios feitos.
 
 <h2>🐾 Primeiros Passos com Python</h1>
 
