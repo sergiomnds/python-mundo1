@@ -11,4 +11,4 @@ aluno4 = str(input('Escreva o nome do quarto aluno: '))
 lista = [aluno1, aluno2, aluno3, aluno4]
 shuffle(lista)
 
-print('A ordem de apresentação será: {}'.format(lista))
+print('A ordem de apresentação será: \33[40;36m{}\33[m'.format(lista))

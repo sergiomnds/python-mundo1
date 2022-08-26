@@ -7,4 +7,4 @@ listaNome = nome.split()
 priNome = listaNome[0]
 ultNome =listaNome[len(listaNome)-1]
 
-print(priNome, ultNome)
+print('\33[4;33m', priNome, '\33[m', '\33[4;31m', ultNome, '\33[m')

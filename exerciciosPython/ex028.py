@@ -12,4 +12,4 @@ sleep(3) #! Função que faz o terminal esperar x(3) segundos até aparecer o re
 if sorteado == escolhido:
     print('Parabéns! Você adivinhou!')
 else:
-    print('Que pena! O computador pensou no nº {}.'.format(sorteado))
+    print('Que pena! O computador pensou no nº \33[31m{}\33[m.'.format(sorteado))
