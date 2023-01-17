@@ -7,6 +7,7 @@ Repositório para guardar os códigos feitos durante o Curso de Python 3 - Mundo
 
 Cada pasta é referente à um módulo feito durante o curso, além da pasta 'exerciciosPython' referente aos exercícios feitos.
 
+Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python-mundo2) e [Mundo 3](https://github.com/sergiomnds/python-mundo3)!
 <h2>🐾 Primeiros Passos com Python</h2>
 
 <h3>🎯 Desafios Propostos:</h3>
