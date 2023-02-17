@@ -12,8 +12,8 @@ Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python
 
 <h3>🎯 Desafios Propostos:</h3>
 
-- [X] Leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo o valor digitado.
-- [X] Leia o dia, o mês e ano de nascimento e mostre uma mensagem com a data formatada.
+- [X] Ex. 01: Leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo o valor digitado.
+- [X] Ex. 02: Leia o dia, o mês e ano de nascimento e mostre uma mensagem com a data formatada.
 
 <h3>📷 Galeria</h3>
 
@@ -25,19 +25,19 @@ Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python
 
 <h3>🎯 Desafios Propostos:</h3>
 
-- [X] Leia dois números e mostre a soma entre eles.
-- [X] Leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
-- [X] Leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
-- [X] Leia um número e mostre o seu dobro, triplo e raiz quadrada.
-- [X] Leia as duas notas de um aluno, calcule e mostre a sua média.
-- [X] Leia um valor em metros e o exiba convertido em centímetros e milímetros.
-- [X] Leia um número Inteiro qualquer e mostre na tela a sua tabuada.
-- [X] Leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
-- [X] Leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
-- [X] Leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
-- [X] Leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
-- [X] Leia uma temperatura em graus Celsius e converta para graus Fahrenheit.
-- [X] Pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+- [X] Ex. 03: Leia dois números e mostre a soma entre eles.
+- [X] Ex. 04: Leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+- [X] Ex. 05: Leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+- [X] Ex. 06: Leia um número e mostre o seu dobro, triplo e raiz quadrada.
+- [X] Ex. 07: Leia as duas notas de um aluno, calcule e mostre a sua média.
+- [X] Ex. 08: Leia um valor em metros e o exiba convertido em centímetros e milímetros.
+- [X] Ex. 09: Leia um número Inteiro qualquer e mostre na tela a sua tabuada.
+- [X] Ex. 10: Leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+- [X] Ex. 11: Leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
+- [X] Ex. 12: Leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+- [X] Ex. 13: Leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+- [X] Ex. 14: Leia uma temperatura em graus Celsius e converta para graus Fahrenheit.
+- [X] Ex. 15: Pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 <h3>📷 Galeria</h3>
 
@@ -50,21 +50,21 @@ Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python
 
 <h3>🎯 Desafios Propostos:</h3>
 
-- [X] Leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
-- [X] Leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
-- [X] Leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
-- [X] Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
-- [X] O mesmo professor quer sortear a ordem de apresentação de trabalhos dos alunos. Leia o nome dos quatro alunos e mostre a ordem sorteada.
-- [X] Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
-- [X] Leia o nome completo de uma pessoa e mostre:
+- [X] Ex. 16: Leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+- [X] Ex. 17: Leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+- [X] Ex. 18: Leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+- [X] Ex. 19: Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+- [X] Ex. 20: O mesmo professor quer sortear a ordem de apresentação de trabalhos dos alunos. Leia o nome dos quatro alunos e mostre a ordem sorteada.
+- [X] Ex. 21: Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+- [X] Ex. 22: Leia o nome completo de uma pessoa e mostre:
   - O nome com todas as letras maiúsculas e minúsculas.
   - Quantas letras ao todo (sem considerar espaços).
   - Quantas letras tem o primeiro nome.
-- [X] Leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
-- [X] Leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
-- [X] Leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
-- [X] Leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
-- [X] Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+- [X] Ex. 23: Leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- [X] Ex. 24: Leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
+- [X] Ex. 25: Leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
+- [X] Ex. 26: Leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+- [X] Ex. 27: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 
 <h3>📷 Galeria</h3>
 
@@ -77,14 +77,14 @@ Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python
 
 <h3>🎯 Desafios Propostos:</h3>
 
-- [X] Faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
-- [X] Leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
-- [X] Leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
-- [X] Pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
-- [X] Leia um ano qualquer e mostre se ele é bissexto.
-- [X] Leia três números e mostre qual é o maior e qual é o menor.
-- [X] Pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
-- [X] Leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+- [X] Ex. 28: Faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+- [X] Ex. 29: Leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+- [X] Ex. 30: Leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+- [X] Ex. 31: Pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+- [X] Ex. 32: Leia um ano qualquer e mostre se ele é bissexto.
+- [X] Ex. 33: Leia três números e mostre qual é o maior e qual é o menor.
+- [X] Ex. 34: Pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+- [X] Ex. 35: Leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
 <h3>📷 Galeria</h3>
 
@@ -97,7 +97,7 @@ Confira também o repositório do [Mundo 2](https://github.com/sergiomnds/python
 
 <h3>🎯 Desafio Proposto:</h3>
 
-- [X] Colocar em alguns dos desafios anteriores um sistema de cores no terminal.
+- [X] Ex. EXTRA: Colocar em alguns dos desafios anteriores um sistema de cores no terminal.
 
 <h3>📷 Galeria</h3>
 
